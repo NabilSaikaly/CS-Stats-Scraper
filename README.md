@@ -40,6 +40,6 @@ The Program will prompt the user to choose between 'TPT' or 'SP':
 2. SP: Search for a specific player in the top leaderboards and retrieve this player's stats.
 
 
-Thanks for using cs.py, for any technical questions concerning the code or related the program itself please feel free to reach out.
+Thanks for using cs.py, for any technical questions concerning the code or related to the program itself please feel free to reach out on saikalyn@gmail.com
 
 Nabil
