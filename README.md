@@ -1,6 +1,6 @@
 # CS-Stats-Retriever: cs.py
 This program retrieves the latest Counter-Strike: Global Offensive Game (CS:GO) stats for Top Players and Top Teams.
-It consists of a web scraper that scrapes [H1TV](https://www.hltv.org)'s database and retrieves the corresponding stats upon the end-user's request/filtering.
+It consists of a web scraper that scrapes [HLTV](https://www.hltv.org)'s database and retrieves the corresponding stats upon the end-user's request/filtering.
 Other than CS:GO players, this program is useful to anyone who wants to learn webscraping via Python's Requests, BS4-BeautifulSoup and some pandas (to create DataFrames).
 
 ## Python Libraries Required
@@ -11,10 +11,10 @@ Other than CS:GO players, this program is useful to anyone who wants to learn we
 - sys
 
 ## Benefits of this program
-Several CSGO Players reached out and addressed that they need a program to scrape H1TV's stats since it is the most reliable website
+Several CSGO Players reached out and addressed that they need a program to scrape HLTV's stats since it is the most reliable website
 and they need to do it directly while playing their game or in the lobby, without actually opening a web-browser, going to the website, specifying the filtering
 requirements and viewing the reports.
-"cs.py" fulfills these requirements and is able to data-scrape H1TV's database and filter on specific date-ranges to retrieve the required reports. In addition, the program allows its end-users to search for a specific player and retrieve his/her performance and stats if the player belongs to the Top Players Tier.
+"cs.py" fulfills these requirements and is able to data-scrape HLTV's database and filter on specific date-ranges to retrieve the required reports. In addition, the program allows its end-users to search for a specific player and retrieve his/her performance and stats if the player belongs to the Top Players Tier.
 There are two main executions to run this program:
 - **The Faster Ability Usage** (achieved by listing specific arguments)
 - **The Regular Usage**
